@@ -26,7 +26,7 @@ The software is fairly straightforward.
 * [LiquidCrystal](https://www.arduino.cc/en/Reference/LiquidCrystal), included with Arduino, to run the LCD display.
 * [SimpleDHT](https://github.com/winlinvip/SimpleDHT) to run the DHT sensor.
 
-## The Code
+### The Code
 The code is broken into four sections.
 * **Intro Comments** describe the purpose of the code and lists the pin arrangement.
 * **Globals** contains the global variables and objects used by the code.
