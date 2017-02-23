@@ -1,6 +1,9 @@
 # LCD_Weather
 Arduino UNO project that displays the temperature and humidity on an onboard LCD display.
 
+## License
+This software is licensed under the [MIT License](https://github.com/griderd/LCD_Weather/blob/master/license.md).
+
 ## Hardware
 This project utilizes the following parts:
 * Integrated Circuits, Boards, Active Components
