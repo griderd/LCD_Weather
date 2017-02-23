@@ -2,7 +2,6 @@
 Arduino UNO project that displays the temperature and humidity on an onboard LCD display.
 
 ## Hardware
-
 This project utilizes the following parts:
 * Integrated Circuits, Boards, Active Components
   * Arduino UNO R3 (or similar)
@@ -16,8 +15,8 @@ This project utilizes the following parts:
   * `R2`: 10 ohm resistor.
   * `VCC1`: 9V battery and snap connector.
   
-## Circuit Diagrams
-
+### Circuit Diagrams
+![Breadboard view](https://github.com/griderd/LCD_Weather/blob/master/Temp%20and%20Humidity%20Monitor_bb.png)
+![Schematic diagram](https://github.com/griderd/LCD_Weather/blob/master/Temp%20and%20Humidity%20Monitor_schem.png)
   
 ## Software
-
