@@ -20,3 +20,15 @@ This project utilizes the following parts:
 ![Schematic diagram](https://github.com/griderd/LCD_Weather/blob/master/Temp%20and%20Humidity%20Monitor_schem.png)
   
 ## Software
+The software is fairly straightforward.
+
+### Prerequisite Libraries
+* [LiquidCrystal](https://www.arduino.cc/en/Reference/LiquidCrystal), included with Arduino, to run the LCD display.
+* [SimpleDHT](https://github.com/winlinvip/SimpleDHT) to run the DHT sensor.
+
+## The Code
+The code is broken into four sections.
+* **Intro Comments** describe the purpose of the code and lists the pin arrangement.
+* **Globals** contains the global variables and objects used by the code.
+* **Arduino Code** contains the `setup()` and `loop()` functions that Arduino uses to run.
+* **Helper Functions** contains helper functions that are called by the `setup()` and `loop()` functions.
